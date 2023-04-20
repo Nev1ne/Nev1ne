@@ -1,4 +1,6 @@
-### Hi there I'm Nevine👋
+### Hi. I'm Nevine👋
+
+A Fullstack Web Developer
 
 <!--
 **Nev1ne/Nev1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
