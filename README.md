@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nev1ne&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nev1ne&show_icons=true&theme=dark)
 
 <!--
 **Nev1ne/Nev1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
