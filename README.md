@@ -6,8 +6,7 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmYwMTIwN2RlOTQ4NWIwMjRiZjUwYmE0ZjdkZDUzMjhkN2QyMWQ0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nev1ne&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
