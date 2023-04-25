@@ -1,10 +1,8 @@
 ### Hi. I'm Nevine👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+A full-stack software engineer
 
-
-
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I love programming, writing, speaking and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
@@ -19,6 +17,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nev1ne&show_icons=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **Nev1ne/Nev1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
