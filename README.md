@@ -22,7 +22,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nev1ne&show_icons=true&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **Nev1ne/Nev1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
