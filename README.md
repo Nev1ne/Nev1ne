@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
                             
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nev1ne&show_icons=true&theme=radical)
+
 
 
 <!--
