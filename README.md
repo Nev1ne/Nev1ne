@@ -1,6 +1,6 @@
 ### Hi. I'm Nevine👋
 
-A full-stack software engineer
+I create,design and write.
 
 I love programming, writing, speaking and traveling.
 
