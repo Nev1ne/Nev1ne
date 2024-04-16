@@ -4,7 +4,7 @@ I create,design and write.
 
 I love programming, writing, speaking and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nev1ne&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
